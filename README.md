@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nahasco
 - 👀 I’m interested in building software
-- 🌱 I’m currently learning basic html and css
+- 🌱 I’m currently learning django, javascript, and react
 - 💞️ I’m looking to collaborate on commercial software
 - 📫 How to reach me (alnahhas55@gmail.com)
 
